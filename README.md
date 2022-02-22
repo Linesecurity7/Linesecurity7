@@ -16,7 +16,7 @@ Eu me chamo <b> Wesley, tenho 16 anos</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente estou morando EM Campo Grande<br />
+Atualmente estou morando em Campo Grande<br />
 </p>
 <p align="left" >
 Sou um estudante de pentester.
