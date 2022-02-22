@@ -19,7 +19,7 @@ Eu me chamo <b> Wesley, tenho 16 anos</b>.
 Atualmente estou morando em Campo Grande<br />
 </p>
 <p align="left" >
-Sou um estudante de pentester.
+Estudante de pentester.
 </p>
 <p align="left" >
 </p>
