@@ -10,16 +10,16 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Eu me chamo <b> Wesley garcia, tenho 16 anos</b>.
+Eu me chamo <b> Wesley, tenho 16 anos</b>.
 </p>
 <a href="https://www.youtube.com/channel/UCDOToM3tcedgXx2zh_n0H5w" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente estou morando no Mato Grosso do sul<br />
+Atualmente estou morando EM Campo Grande<br />
 </p>
 <p align="left" >
-Sou um estudante de segurança cibernetica e pentester.
+Sou um estudante de pentester.
 </p>
 <p align="left" >
 </p>
